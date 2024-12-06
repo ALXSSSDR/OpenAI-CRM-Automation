@@ -1,1 +1,1 @@
-# OpenAI-CRM-Automation
+# gpt-crm-automation
