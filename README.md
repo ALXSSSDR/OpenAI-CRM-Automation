@@ -1,4 +1,4 @@
-# 📞 WhatsApp & Telegram CRM Chatbot Integration
+# 📞 WhatsApp & Telegram CRM OpenAI Integration
 
 ## 📋 Описание
 
